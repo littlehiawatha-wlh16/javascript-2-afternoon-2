@@ -145,6 +145,19 @@ var numbersArray = [1,2,34,54,55,34,32,11,19,17,54,66,13];
 
 //Code Here
 
+function divider(numbersArray){
+
+//   for(let i = 0, i < numbersArray.length; i++){
+//     if(nums[i] % 2 === 0){
+//       evenNums.push(numbersArray[i])
+//     } else {
+//       oddNums.push(numbersArray[i])
+//     }
+//   }
+
+//   return [evenNums, oddNums]
+}
+
 
 
 ////////// PROBLEM 7 //////////
@@ -166,6 +179,18 @@ var getRandomArbitrary = function() {
 */
 
 //Code Here
+
+function finder(array){
+  let randomNumber = getRandomArbitrary()
+
+  // for(let i = 0; i<getRandomArbitrary.length){
+  //   if(){
+
+  //   }
+  // }
+
+}
+
 
 
 
@@ -196,6 +221,14 @@ var myGroceryList = ['chips', 'pizza', 'hotpockets', 'MtnDew', 'corndogs'];
 
 //Code Here
 
+function removeItem(myGroceryList,      ) {
+
+}
+
+
+function addItem(myGroceryList,      ){
+
+}
 
 
 ////////// PROBLEM 9 //////////
@@ -205,6 +238,10 @@ var myGroceryList = ['chips', 'pizza', 'hotpockets', 'MtnDew', 'corndogs'];
 */
 
 //Code Here
+
+function maker(){
+
+}
 
 
 
@@ -221,6 +258,10 @@ var numbers = [5, '9', 16, 19, '25', '34', 48];
 */
   
 //Code Here
+
+function addTen(numbers){
+
+}
 
 
 
@@ -247,6 +288,11 @@ for(var i = 0; i < num2; i++){
 
 //Code Here
 
+function longer(arr1, arr2){
+
+
+};
+
 
 
 /*
@@ -258,6 +304,10 @@ for(var i = 0; i < num2; i++){
 */
 
 //Code Here
+
+function both(arr1, arr2){
+
+};
 
 
 
@@ -302,6 +352,8 @@ var colt = {
 
 
 
+
+
 /*
   Now let's say Cahlan has to take a leave of absence.
   Loop through your devMountainEmployees until you find cahlan, then remove him from the array.
@@ -320,6 +372,8 @@ var colt = {
 */
 
 //Code Here
+
+let users = [];
 
 
 
